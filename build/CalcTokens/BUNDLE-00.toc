@@ -1,0 +1,3 @@
+([('CalcTokens',
+   '/Users/sugupta/InvoiceExtraction/dist/CalcTokens',
+   'EXECUTABLE')],)
